@@ -107,9 +107,8 @@ Notebook dikembangkan menggunakan:
 Dashboard-Student-Performance/
 │
 ├── StudentPerformanceFactors.csv
-├── Dashboard_Analisis_Performa_Siswa.ipynb
+├── Perancangan_Dashboard_Ansharil_Aufar.ipynb
 ├── README.md
-├── requirements.txt
 └── images/
 ```
 
